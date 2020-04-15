@@ -1,0 +1,41 @@
+_repo: Die-Gotischen-Zimmer-Roman_61753
+_version: 0.0.1
+alternative_title: Götiska rummen. German
+contributor:
+  translator:
+    agent_name: Hollander, Else von
+    aliases:
+    - Hollander-Lossow, Else von
+    - Hollander, E. von
+    birthdate: 1884
+    deathdate: 1944
+    gutenberg_agent_id: '51598'
+    url: http://www.gutenberg.org/2009/agents/51598
+    wikipedia: https://de.wikipedia.org/wiki/Else_von_Hollander-Lossow
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia:
+    - https://sv.wikipedia.org/wiki/August_Strindberg
+    - https://en.wikipedia.org/wiki/August_Strindberg
+description: ''
+gutenberg_issued: '2020-04-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61753'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bohemianism -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Stockholm (Sweden) -- Fiction'
+- GITenberg
+title: 'Die Gotischen Zimmer: Roman'
+url: http://www.gutenberg.org/ebooks/61753
